@@ -8,9 +8,14 @@ class Calculadora {
   public class int sub(int a , int b){ 
 	return a-b;  
   }
-
-  int mul(int a, int b){ return 0; }
-  int div(int a, int b){ return 0; }
+  /*Tercera función mul*/
+  public class int mul(int a, int b){
+    return a*b;
+  }
+  /* Cuarta función div*/
+  public int div(int a, int b){ 
+    return a/b; 
+  }
   int mod(int a, int b){ return 0; }
 	
 }
