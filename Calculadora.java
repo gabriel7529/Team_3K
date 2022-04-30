@@ -1,15 +1,15 @@
 import java.util.*;
 class Calculadora {
 	/*Primera funcion add*/	
-	public class int add(int a , int b){
+	public int add(int a , int b){
 		return a + b; 	       
 	}
 	/*Segunda funcion sub*/
-	public class int sub(int a , int b){ 
+	public int sub(int a , int b){ 
 		return a-b;  
 	}
 	/*Tercera función mul*/
-	public class int mul(int a, int b){
+	public int mul(int a, int b){
 		return a*b;
 	}
 	/*Cuarta función div*/
@@ -20,6 +20,22 @@ class Calculadora {
 	public int mod(int a, int b){ 
 		return a%b; 
 	}
+	public static void main(String[]args){
+		Scanner sc = new Scanner(System.in);
+		int a;
+		int b;
+		int operacion;
+		System.out.println("¡¡Bienvenido a la calculadora!!");
+		System.out.println("--------------------");
+		System.out.println("| Operaciones:     |");
+		System.out.println("| 1.Suma           |");
+		System.out.println("| 2.Resta          |");
+		System.out.println("| 3.Multiplicación |");
+		System.out.println("| 4.Division       |");
+		System.out.println("| 5.Módulo         |");
+		System.out.println("--------------------");
+		System.out.println("Ingrese el número de la operación que desea realizar: ");
+	} 
 }
 
 
