@@ -1,23 +1,23 @@
 import java.util.*;
 class Calculadora {
 	/*Primera funcion add*/	
-	public int add(int a , int b){
+	public static int add(int a , int b){
 		return a + b; 	       
 	}
 	/*Segunda funcion sub*/
-	public int sub(int a , int b){ 
+	public static int sub(int a , int b){ 
 		return a-b;  
 	}
 	/*Tercera función mul*/
-	public int mul(int a, int b){
+	public static int mul(int a, int b){
 		return a*b;
 	}
 	/*Cuarta función div*/
-	public int div(int a, int b){ 
+	public static int div(int a, int b){ 
 		return a/b; 
 	}
 	/*Quinta función mod*/
-	public int mod(int a, int b){ 
+	public static int mod(int a, int b){ 
 		return a%b; 
 	}
 	public static void main(String[]args){
@@ -42,8 +42,8 @@ class Calculadora {
     a = sc.nextInt();
     System.out.println("Número 2: ");
     b = sc.nextInt();
-    if (aperacion == 1)
-      resultado = add(a,b);
+    if (operacion == 1)
+      resultado = add(a, b);
 
 	} 
 }
