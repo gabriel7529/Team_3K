@@ -63,7 +63,7 @@
 <tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO
 <p>...</p></td></tr>
 <tr><td colspan="6">III. CONCLUSIONES
-<p>...</p></td></tr>
+<p>Este laboratorio nos ayudó a recordar comandos basicos de git y su sincronización con GitHub, pero sobre todo nos permitio aprender nuevos comandos para trabajar en equipopor medio de la creación de ramas, abriendonos nuevas puertas en la programación con varios colaboradores, que seguro será útil en proximos trabajos.</p></td></tr>
 </table>
 <table>
 <theader>
@@ -71,7 +71,7 @@
 </theader>
 <tbody>
 <tr><td colspan="6">
-<p>...</p></td></tr>
+<p>En este primer laboratorio se pudo ver comandos de git, como fueron, git init, git add, git commit -m, git remote y git push, que sirvieron para iniciar un repositorio local, añadir archivos al staging area y sincronizar el repositorio local con GitHub, y además pudimos reforzar todo esto trabajando en equipo, por medio de nuevos comandos como son git branch, git checkout y git merge, que permitieron crear una nueva rama, cambiarse a ella, editarla sin afectar a la rama main para luego pasar la aplicacion final a dicha rama.</p></td></tr>
 </table>
 <table>
 <theader>
