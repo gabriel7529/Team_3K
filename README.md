@@ -63,7 +63,9 @@
     <p><strong>Edson: </strong><a href="https://github.com/elopezqu/Lab_Pweb2.git">Repositorio Individual</a></p>
     <p><strong>Fernando: </strong><a href="https://github.com/fernandocoylaA/Trabajo_Individual">Repositorio Individual</a></p>
     <h4>Grupales<h/4>
-    <p>...</p>
+     <br>
+    <img src ="./Captura de pantalla de 2022-04-29 21-44-16.png">
+    <img src ="./Captura de pantalla de 2022-04-29 21-45-00.png"> 
     </td></tr>
 <tr><td colspan="6">II. SOLUCIÓN DEL CUESTIONARIO
 <p>Porque git al ser una herramienta de control de versiones nos permite visualizar los cambios realizados y compartirlo con nuestro equipo de forma optima, esto aporta bastante eficiencia al momento de trabajar en un código en equipo, sin mencionar que podemos tener una bitácora de cada parte que se cambia en el código.</p></td></tr>
