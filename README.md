@@ -60,7 +60,7 @@
 <tr><td colspan="6">I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS
     <h4>Individuales</h4>
     <p><strong>Gabriel: </strong> <a href="https://github.com/gabriel7529/Lab01">Repositorio Individual</a></p>
-    <p>...</p>
+    <p><strong>Edson:</strong><a href="https://github.com/elopezqu/Lab_Pweb2.git">Repositorio Individual</a></p>
     <p>...</p>
     <h4>Grupales<h/4>
     <p>...</p>
