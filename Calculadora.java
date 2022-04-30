@@ -24,6 +24,7 @@ class Calculadora {
 		Scanner sc = new Scanner(System.in);
 		int a;
 		int b;
+    int resultado;
 		int operacion;
 		System.out.println("¡¡Bienvenido a la calculadora!!");
 		System.out.println("--------------------");
@@ -35,6 +36,15 @@ class Calculadora {
 		System.out.println("| 5.Módulo         |");
 		System.out.println("--------------------");
 		System.out.println("Ingrese el número de la operación que desea realizar: ");
+    operacion = sc.nextInt();
+    System.out.println("Ingrese los números:");
+    System.out.println("Número 1 : ");
+    a = sc.nextInt();
+    System.out.println("Número 2: ");
+    b = sc.nextInt();
+    if (aperacion == 1)
+      resultado = add(a,b);
+
 	} 
 }
 
